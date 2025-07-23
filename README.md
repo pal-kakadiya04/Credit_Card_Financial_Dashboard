@@ -1,4 +1,4 @@
-# Credit_Card_Financial_Dashboard
+#  CreditPulse: Analyzing Insights with DAX, SQL and Power Bi
 Power BI Dashboard for Credit Card and Customer Analysis
 
 ## About the Project
