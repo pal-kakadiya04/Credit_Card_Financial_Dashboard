@@ -1,5 +1,5 @@
 # Credit_Card_Financial_Dashboard
-Power BI Dashboard
+Power BI Dashboard for Credit Card and Customer Analysis
 
 ## About the Project
 
